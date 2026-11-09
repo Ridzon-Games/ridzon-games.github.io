@@ -15,6 +15,12 @@ universe can only be seen from space.
 - [Privacy Policy](tiny-observatory/privacy)
 - [Terms & Conditions](tiny-observatory/terms)
 
+## AR-TD
+
+A tower-defense game played in augmented reality on your table, alone or with friends nearby.
+
+- [Privacy Policy](ar-td/privacy)
+
 ## Support
 
 Questions, bug reports and feedback: **ridzongames@gmail.com**
