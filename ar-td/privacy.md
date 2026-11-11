@@ -9,7 +9,7 @@ title: AR-TD — Privacy Policy
 This privacy policy applies to the AR-TD app for iPhone and iPad (the "Application"). The
 Application is made by Daniel Ridzoň, a sole trader in the Czech Republic trading as Ridzon Games
 (the "Service Provider"), who is the controller of the personal data described here. You can reach
-the Service Provider at **ridzongames@gmail.com**.
+the Service Provider at **support@ridzongames.com**.
 
 ## In short
 
@@ -95,7 +95,7 @@ that.
 
 Under the GDPR you have the right to access, correct and delete your personal data, to restrict or
 object to its processing, and to data portability. To exercise any of these rights, email
-**ridzongames@gmail.com**. You also have the right to complain to a data protection authority; in
+**support@ridzongames.com**. You also have the right to complain to a data protection authority; in
 the Czech Republic this is the Office for Personal Data Protection (Úřad pro ochranu osobních
 údajů, [uoou.gov.cz](https://uoou.gov.cz)).
 
@@ -106,7 +106,7 @@ The Service Provider does not sell or share personal information.
 ## Deleting your data
 
 - **Game data:** delete the Application. Everything it stored on your device is deleted with it.
-- **Analytics and crash data:** email **ridzongames@gmail.com**. Because this data is tied to a
+- **Analytics and crash data:** email **support@ridzongames.com**. Because this data is tied to a
   random identifier rather than to you, the Service Provider may need your help to find it; if it
   cannot be found, you will be told. It is also deleted automatically after the retention periods
   above.
@@ -119,7 +119,7 @@ The Application is a strategy game suitable for children and adults. It does not
 personal information, and collects only the anonymous usage and crash data described above. In
 local multiplayer, a child's player name is visible to the other players nearby. If you are a
 parent or guardian and want data about your child's device deleted, email
-**ridzongames@gmail.com**.
+**support@ridzongames.com**.
 
 ## Security
 
@@ -134,4 +134,4 @@ announced in the Application where the law requires it. Previous versions are av
 
 ## Contact
 
-Daniel Ridzoň (Ridzon Games), Czech Republic · **ridzongames@gmail.com**
+Daniel Ridzoň (Ridzon Games), Czech Republic · **support@ridzongames.com**

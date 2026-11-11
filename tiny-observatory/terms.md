@@ -83,4 +83,4 @@ new effective date. Previous versions are available on request.
 
 ## Contact
 
-Daniel Ridzoň (Ridzon Games), Czech Republic · **ridzongames@gmail.com**
+Daniel Ridzoň (Ridzon Games), Czech Republic · **support@ridzongames.com**
